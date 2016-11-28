@@ -15,7 +15,11 @@ git config --global user.name "yourname"
 
 git commit -m "your comment here"
 
-git push
+git push   --> to send it to github repo.
+
+
+after any change of your workspace you should
+   repeat this process "clone ->add ->commit --> push "
 
 
 
