@@ -1,0 +1,22 @@
+open git cmd
+
+cd "your workspace path"
+
+git clone https://github.com/CO-ROBOTS-TantaTeam/GP.git
+
+cd GP  --->"your repository in git hub"
+
+git status ---> used to git current status of your files in this repo.
+
+git add .   
+
+git config --global user.email "your-github-mail@example.com"
+git config --global user.name "yourname"
+
+git commit -m "your comment here"
+
+git push
+
+
+
+
